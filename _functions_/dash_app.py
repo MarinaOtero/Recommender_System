@@ -225,7 +225,7 @@ def dash_app(run_server_mode):
         changed_id = [p['prop_id'] for p in dash.callback_context.triggered][0]
         if 'button_hurt' in changed_id:
             msg = '''The Hurt Locker is a 2009 American war thriller film directed by Kathryn Bigelow. 
-            This is the first and so far only film directed by a woman to win the Oscar for Best Picture.'''
+            This is the first film directed by a woman to win the Oscar for Best Picture.'''
             return html.Div(msg)
     
     @app.callback(Output('container-button-lafee', 'children'),
@@ -257,7 +257,7 @@ def dash_app(run_server_mode):
                 dbc.Col([
                          html.Label('Choose a movie genre'),
                          dcc.Dropdown(id='filter_dropdown', placeholder='first dropdown',
-                                     options= dict_female_genres, value = 'romance')
+                                     options= dict_female_genres, value = 'action')
                         ],
                         width={'size': 3, "offset": 1, 'order': 1}
                         )
