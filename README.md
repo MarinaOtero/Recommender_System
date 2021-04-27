@@ -22,4 +22,5 @@ The recommender system in the final application looks like this:
 
 Also you can find a presentation of the project with a video that shows how the application works [here](https://www.canva.com/design/DAEb0ER1X2c/share/preview?token=s7slDXMTsoSr3TwQLPkNkQ&role=EDITOR&utm_content=DAEb0ER1X2c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-
+# Data
+As the final data files are too big to upload in github you can find the data [here](https://drive.google.com/drive/folders/1fiLvXANDnCEskDGmP-ttkdY3hCE7WDEL?usp=sharing)
