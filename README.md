@@ -16,4 +16,10 @@ folder with the notebooks that shows all the results
 ## \_model\_:
 KNN model saved
 
+# Application:
+The recommender system in the final application looks like this:
+![recommender](https://user-images.githubusercontent.com/75427185/116276910-4086d800-a785-11eb-8dc4-220efd453d62.jpg)
+
+Also you can find a presentation of the project with a video that shows how the application works in the link
+
 
