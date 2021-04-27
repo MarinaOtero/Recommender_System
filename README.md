@@ -20,6 +20,6 @@ KNN model saved
 The recommender system in the final application looks like this:
 ![recommender](https://user-images.githubusercontent.com/75427185/116276910-4086d800-a785-11eb-8dc4-220efd453d62.jpg)
 
-Also you can find a presentation of the project with a video that shows how the application works in the [link](https://www.canva.com/design/DAEb0ER1X2c/share/preview?token=s7slDXMTsoSr3TwQLPkNkQ&role=EDITOR&utm_content=DAEb0ER1X2c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+Also you can find a presentation of the project with a video that shows how the application works [here](https://www.canva.com/design/DAEb0ER1X2c/share/preview?token=s7slDXMTsoSr3TwQLPkNkQ&role=EDITOR&utm_content=DAEb0ER1X2c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 
